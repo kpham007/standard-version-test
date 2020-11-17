@@ -1,1 +1,3 @@
 # standard-version-test
+
+foo
